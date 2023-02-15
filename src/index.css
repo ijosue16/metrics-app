@@ -1,0 +1,84 @@
+body {
+  margin: 0;
+  font-family:
+    -apple-system,
+    BlinkMacSystemFont,
+    'Segoe UI',
+    'Roboto',
+    'Oxygen',
+    'Ubuntu',
+    'Cantarell',
+    'Fira Sans',
+    'Droid Sans',
+    'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background: #cf4278;
+  background-image: radial-gradient(black 1px, transparent 0);
+  background-size: 40px 40px;
+  background-position: -19px -19px;
+}
+html{
+  height: 100%;
+  width: 100%;
+}
+
+code {
+  font-family:
+    source-code-pro,
+    Menlo,
+    Monaco,
+    Consolas,
+    'Courier New',
+    monospace;
+}
+.details{
+  /* background-color: rgb(0, 255, 255); */
+  min-height: 12rem;
+  background-size: 100% 100%;
+  background-image: url(https://cdn.pixabay.com/photo/2022/03/28/22/48/cloudy-7098479__480.png);
+  position: relative;
+  isolation: isolate;
+  place-content: center;
+  background-position-y: top;
+
+}
+.details::after{
+content: "";
+position: absolute;
+background-size: cover;
+background-color: #cf4278;
+background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='28' height='28' viewBox='0 0 48 48'%3E%3Cg fill='%23e04683' fill-opacity='1'%3E%3Cpath d='M12 0h18v6h6v6h6v18h-6v6h-6v6H12v-6H6v-6H0V12h6V6h6V0zm12 6h-6v6h-6v6H6v6h6v6h6v6h6v-6h6v-6h6v-6h-6v-6h-6V6zm-6 12h6v6h-6v-6zm24 24h6v6h-6v-6z'%3E%3C/path%3E%3C/g%3E%3C/svg%3E");
+border-right: #e77eac 3px solid;
+/* background-color: rgba(6, 86, 236, 0.925); */
+z-index: -1;
+inset: 0;
+opacity: 0.5;
+}
+li:nth-child(even){
+  background-color: #eb4d8b;
+  
+}
+li:nth-child(odd){
+  background-color: #cf4278;
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='48' height='48' viewBox='0 0 48 48'%3E%3Cg fill='%23e04683' fill-opacity='0.54'%3E%3Cpath d='M12 0h18v6h6v6h6v18h-6v6h-6v6H12v-6H6v-6H0V12h6V6h6V0zm12 6h-6v6h-6v6H6v6h6v6h6v6h6v-6h6v-6h6v-6h-6v-6h-6V6zm-6 12h6v6h-6v-6zm24 24h6v6h-6v-6z'%3E%3C/path%3E%3C/g%3E%3C/svg%3E");
+}
+.navigation-bar{
+  background-color: #cf4278;
+}
+nav{
+  background-color: #cf4278c0;
+  background: #cf4278;
+
+
+}
+.city-container{
+  box-shadow: #e04683 ;
+}
+.sub-head{
+  background:#e04683;
+}
+span{
+  color: white;
+}
