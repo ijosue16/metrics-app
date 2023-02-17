@@ -20,7 +20,7 @@ const Navbar = () => (
     <div className="flex-fill d-flex justify-content-center
     align-items-center"
     >
-      <h5 className="text-center m-0 text-white">Header</h5>
+      <h5 className="text-center m-0 text-white">Meteo forecast</h5>
     </div>
     <div className="flex-fill d-flex icons gap-4 gap-sm-5 justify-content-sm-end justify-content-center
     align-items-center"
