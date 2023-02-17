@@ -60,7 +60,7 @@
 
 
 
-- [No live demo link](https://yourdeployedapplicationlink.com)
+- [live demo link](https://meteo-forecast.onrender.com)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -159,8 +159,8 @@ Github pages or Render.
 👤 **Iradukunda Josue**
 
 - GitHub: [@ijosue16](https://github.com/ijosue16)
-- Twitter: [@iradukunda_23](https://twitter.com/iradukunda_23)
-<!-- - LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle) -->
+<!-- - Twitter: [@iradukunda_23](https://twitter.com/iradukunda_23) -->
+- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
 
 <!-- 👤 **Author2**
 
