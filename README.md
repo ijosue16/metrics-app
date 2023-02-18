@@ -210,6 +210,10 @@ If you like this project offer me a star ⭐
 
 I would like to thank Microverse team
 
+> Nelson Sakwa.
+
+I would like to thank the author of the original design  Nelson Sakwa.
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- FAQ (optional)
